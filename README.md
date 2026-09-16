@@ -2,8 +2,8 @@
 
 # AI Random Roam with Chase - Unreal Engine
 
-## Name : JAIAKASH J
-## Reg No : 212225240055
+## Name : JAYENTHAN R
+## Reg No : 212225240057
 
 ##  Aim
 To create an AI character in Unreal Engine that roams randomly within a NavMesh area and chases the player when they come within a certain range, using Behavior Trees, Blackboard, and AI Perception.
